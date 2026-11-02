@@ -1,0 +1,41 @@
+# Pastas geradas automaticamente pela Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Builds do jogo
+/[Bb]uild/
+/[Bb]uilds/
+
+# Cache do Visual Studio
+.vs/
+.vscode/
+
+# Arquivos de projeto e solucao gerados pela Unity
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+
+# Arquivos temporarios e configuracoes locais
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.log
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos de builds Android
+*.apk
+*.aab
+*.obb
+
+# Informacoes de depuracao geradas em builds
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
